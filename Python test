@@ -1,0 +1,11 @@
+{
+  "name": "Marga",
+  "age": 27,
+  "city": "AddisAbaba",
+  "country": "Ethiopia",
+  "haschildren": false,
+  "Titles": [
+    "Engineer",
+    "programmer"
+  ]
+}
